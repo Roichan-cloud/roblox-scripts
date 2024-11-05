@@ -1064,7 +1064,7 @@ end)
 --// Rayfield Initialization
 -------------------------//
 getgenv().SecureMode = true
-local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/rafacasari/Rayfield/main/source'))()
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()
 assert(Rayfield, "Oopps! Rayfield has not been loaded. Maybe try re-joining?") 
 
 --// GET OUT OF HERE YOUR FVCKING LOSER, DON'T RENAME MY SCRIPT, YOU DON'T EVEN KNOW HOW TO PRINT HELLO WORLD YOUR FVCKING ASSHOLE
